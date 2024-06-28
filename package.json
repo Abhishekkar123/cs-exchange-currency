@@ -1,0 +1,26 @@
+{
+  "name": "cs-exchanges-currency",
+  "version": "1.0.0",
+  "description": "An npm package for currency convertor",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishekkar123/cs-exchange-currency.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Abhishek Kar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Abhishekkar123/cs-exchange-currency/issues"
+  },
+  "homepage": "https://github.com/Abhishekkar123/cs-exchange-currency#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
